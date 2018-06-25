@@ -141,7 +141,7 @@ for(int i=0;i<12;i++){
 
     }
 
-    }//set
+    }//sett
 
     public void stage1(){
 
